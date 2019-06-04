@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 # Express Basic Website
 
@@ -55,3 +56,8 @@ In addition to that, you will need:
 
 
 Happy coding! :heart:
+=======
+# Kanye-Quote-Generator-Using-JSON-API
+</br>
+Kanye Quote Generator using <a href="https://github.com/ajzbc/kanye.rest">Kanye.Rest</a> free API.
+>>>>>>> 5652351d2f0a3a72dc1ffd60085139dae0268431
