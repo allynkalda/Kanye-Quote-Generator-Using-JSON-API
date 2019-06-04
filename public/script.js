@@ -7,7 +7,7 @@ bleep.src = "kanye.wav";
 function getRandomQuote() {
     fetch(url)
         .then(function (response) {
-            return response.json();
+            return response.json(); 
         })
         .then(function (data) {
             console.log(data)
