@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+h2 {
+	font-family: Merriweather, serif;
+	line-height: 40px;
+	color: white;
+}
+body {
+	background-color: #A8CC5B;
+}
+img {
+  max-width:100%;
+  height:auto;
+}
+.container {
+	width: 100%;
+	padding: 30px;
+}
+.box1 {
+	float: left;
+	width: 40%;
+	text-align: center;
+	margin-left: 50px;
+  	position: absolute;
+  	top: 50%;
+  	-ms-transform: translateY(-50%);
+  	transform: translateY(-50%);
+}
+.box2 {
+	float: right;
+	width: 50%;
+}
+.button {
+	margin-top: 10px;
+	height: 50px;
+	width: 120px;
+	border-radius: 10px;
+	background-size: 42px 42px;
+	background-color: #F2C14E;
+	border: none;
+	font-size: 20px;
+	font-family: Anton, serif;
+}
+.button:hover {
+	background-color: #EE7F53;
+}
+.button:focus { 
+	outline:none 
+}
