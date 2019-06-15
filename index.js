@@ -1,4 +1,3 @@
-// const axios = require('axios');
 const url = 'https://api.kanye.rest';
 
 const bleep = new Audio();
@@ -16,12 +15,4 @@ function getRandomQuote() {
         .catch(function (error) {
             console.log(error)
         })
-    // axios.get(url)
-    //     .then(function (response) {
-    //         console.log(response.data);
-    //         document.getElementById("quote").innerHTML = response.data.quote;
-    //     })
-    //     .catch(function (error) {
-    //         console.log(error)
-    //     })
 }
